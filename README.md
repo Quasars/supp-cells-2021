@@ -1,2 +1,5 @@
 # supp-cells-2021
-Quasar: Easy machine learning for biospectroscopy (supplement)
+
+This is a supplement to the paper Quasar: Easy machine learning for biospectroscopy (currently under review)
+
+The .ows files correspond to case studies described in the paper.
